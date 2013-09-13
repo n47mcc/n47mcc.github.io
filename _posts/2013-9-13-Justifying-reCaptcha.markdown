@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Captcha"
+title: "Justifying reCAPTCHA"
 description: "Massive Scale Online Collaboration : Luis von Ahn"
 categories: TED
 tags:
