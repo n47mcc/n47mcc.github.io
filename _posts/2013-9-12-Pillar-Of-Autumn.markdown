@@ -9,6 +9,3 @@ published: true
 
 This is my first attempt at creating a blog of any kind.
 
-## Headline
-
-I guess I can make headines with the ## keys...
