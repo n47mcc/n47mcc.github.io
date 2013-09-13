@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Massive Scale Online Collaboration : Luis von Ahn"
-description: "Great Video on Online Collaboration"
+title: "Captcha"
+description: "Massive Scale Online Collaboration : Luis von Ahn"
 categories: TED
 tags:
 published: true
