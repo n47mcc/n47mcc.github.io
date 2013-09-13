@@ -1,0 +1,26 @@
+#
+# Jekyll configuration
+#
+auto: true
+permalink: /blog/:title
+pygments: true
+lsi: true
+#markdown: rdiscount
+markdown: maruku
+maruku:
+  use_tex:    false
+  use_divs:   false
+#rdiscount
+#  extensions: [smart]
+
+#
+# Site configuration
+#
+base_url: http://danielsmiller.com
+url: http://danielsmiller.com
+title: "/home/dan"
+description: "Dan Miller's Personal Website" 
+author: "Dan Miller"
+email: "dan@danielsmiller.com" 
+#gauaid: "UA-1697171-11" 
+##disqusshortname: "danielsmillercom"
