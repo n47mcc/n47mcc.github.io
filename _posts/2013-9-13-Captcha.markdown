@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Massive Scale Online Collaboration : Luis von Ahn"
+description: "Great Video on Online Collaboration"
+categories: TED
+tags:
+published: true
+---
+
+http://youtu.be/-Ht4qiDRZE8
+
