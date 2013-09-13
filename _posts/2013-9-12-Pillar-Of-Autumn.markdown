@@ -2,7 +2,7 @@
 layout: post
 title: "Pillar of Autumn"
 description: "My First Post"
-categories: Jekyll
+categories: Is this like a tag?
 tags:
 published: true
 ---
