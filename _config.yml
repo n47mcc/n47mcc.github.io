@@ -16,11 +16,11 @@ maruku:
 #
 # Site configuration
 #
-base_url: http://danielsmiller.com
-url: http://danielsmiller.com
+base_url: n47mcc.github.io
+url: n47mcc.github.io
 title: "/home/dan"
-description: "Dan Miller's Personal Website" 
-author: "Dan Miller"
-email: "dan@danielsmiller.com" 
+description: "Nat McCormick's Personal Website" 
+author: "Nat McCormick"
+email: "mccormickn@gmail.com" 
 #gauaid: "UA-1697171-11" 
 ##disqusshortname: "danielsmillercom"
