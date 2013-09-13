@@ -4,7 +4,6 @@ title: "Pillar of Autumn"
 description: "My First Post"
 categories: Jekyll
 tags:
-- Jekyll
 published: true
 ---
 
